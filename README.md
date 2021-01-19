@@ -11,7 +11,7 @@ As a user I should not receive more than one message from the match until I resp
 
 As a user, I want to be able to like someone's profile to notify them that I want to chat.
 
-As a user, I want to be able to edit my profile pictures and information
+As a user, I want to be able to edit my profile pictures and information.
 
 ## Wireframes
 ### Main
